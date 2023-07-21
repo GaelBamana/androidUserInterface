@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My App IUX</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_android">Hello blank fragment</string>
+    <string name="navigate_home">Go to Home</string>
+    <string name="navigate_login">Go to Home</string>
+    <string name="login_title">Next City</string>
+    <string name="login_email">Email</string>
+    <string name="login_pwd">Email</string>
+    <string name="login_password">Email</string>
+
+
+
+
+</resources>
